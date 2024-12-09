@@ -71,6 +71,6 @@ const skills = {
 
 ## 📬 Connect With Me  
 
-- **LinkedIn:** [Your LinkedIn Profile]([#](https://www.linkedin.com/in/muntasserbillah-alloh/))  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muntasserbillah-alloh/)
 
 Let’s build great things together! 🚀
